@@ -6,7 +6,7 @@
 
 - 🔭 I’m Intern at [FastFindFirm](https://fastfindfirm.co.in) [Zetpeak](https://zetpeak.com/) [IBM SkillBuild](https://skillsbuild.org/)
 
-- 🌱 I’m currently Skilled in ** fULL STACK (JavaScript, React JS, NODE JS, EXPRESS JS, MongoDB, SQL)**
+- 🌱 I’m  Skilled in ** fULL STACK (JavaScript, React JS, NODE JS, EXPRESS JS, MongoDB, SQL)**
 
 - 📫 How to reach me **ritikktrivedi9999@gmail.com**
 

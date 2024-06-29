@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikktrivedi999&label=Profile%20views&color=0e75b6&style=flat" alt="ritikktrivedi999" /> </p>
 
-- 🔭 I’m Intern at [FastFindFirm](https://fastfindfirm.co.in) [Zetpeak](https://zetpeak.com/)
+- 🔭 I’m Intern at [FastFindFirm](https://fastfindfirm.co.in) [Zetpeak](https://zetpeak.com/) [IBM SkillBuild](https://skillsbuild.org/)
 
 - 🌱 I’m currently learning **Full Stack Web Development and DSA in C++**
 

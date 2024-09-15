@@ -32,9 +32,9 @@ const Ritik Trivedi= {
 <!-- START_SECTION:blog -->
 | Qualification | Studied at | Institute | Affiliated by | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech ECE | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSlXh0uAs4doaJDsJgKPmmNcOjW6heDcFJg&s" width="40" height="30"> | Government  Engineering College, Rewa | REC | June 2020 - June 2024 | 7.94 CGPA |
-| Intermediate | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Poblic School , Rewa | State Board- MP | 2019 - 2020 | 76.6 % |
-| Highschool | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Public School | State Board | 2017 - 2018 | 89.40 % |
+| B.Tech ECE | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSlXh0uAs4doaJDsJgKPmmNcOjW6heDcFJg&s" width="40" height="30"> | Government  Engineering College, Rewa | RGPV, Bhopal | June 2020 - June 2024 | 7.94 CGPA |
+| Intermediate | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Poblic School , Rewa | MPBSE | 2019 - 2020 | 76.6 % |
+| Highschool | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Public School | MPBSE | 2017 - 2018 | 89.40 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>

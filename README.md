@@ -10,7 +10,7 @@
 
 - 📫 reach me out at: **ritikktrivedi9999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-eUwtKZWPOJbNOxjiziU4tgcH13r-jC8/view?usp=share_link](https://portfolio-ritik-react.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://portfolio-ritik-react.vercel.app/)
 
 - ⚡ Fun fact **I am Funny and 😎**
 

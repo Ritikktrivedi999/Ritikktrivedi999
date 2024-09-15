@@ -46,13 +46,9 @@ const Ritik Trivedi= {
 <br>
 
 <p align="left"> 
-  
-  <a href="https://www.naukri.com/code360/profile/54d8e008-dc8e-40fd-a392-346f6a44bcec" target="_blank"> <img alt="Naukari360" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+   <a href="https://www.naukri.com/code360/profile/54d8e008-dc8e-40fd-a392-346f6a44bcec" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Ritik_Trivedi_99/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://https://www.hackerrank.com/profile/ritikktrivedi991" target="_blank">  <img alt="HackerRank" width="125 src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://https://www.hackerrank.com/profile/ritikktrivedi991" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
 

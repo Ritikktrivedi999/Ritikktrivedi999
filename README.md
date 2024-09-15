@@ -42,6 +42,22 @@ const Ritik Trivedi= {
 
 -------------------
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+<br>
+
+<p align="left"> 
+  
+  <a href="https://www.naukri.com/code360/profile/54d8e008-dc8e-40fd-a392-346f6a44bcec" target="_blank"> <img alt="Naukari360" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/Ritik_Trivedi_99/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://https://www.hackerrank.com/profile/ritikktrivedi991" target="_blank">  <img alt="HackerRank" width="125 src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ 
+</p>
+
+-------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritik-trivedi-598a4b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritik-trivedi-598a4b21b" height="30" width="40" /></a>

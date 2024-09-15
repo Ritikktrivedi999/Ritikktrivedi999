@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://portfolio-ritik-react.vercel.app/)
 
-- ⚡ Fun fact **I Myself😎**
+- ⚡ Fun fact **I can code my way through anything, even when I’m debugging life itself! 😎**
 
   -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png" width="25">  <b>A wee bit about Myself :)</b>

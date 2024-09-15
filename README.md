@@ -14,6 +14,34 @@
 
 - ⚡ Fun fact **I am Funny and 😎**
 
+  -----------------------
+## <img src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png" width="25">  <b>A wee bit about Myself :)</b>
+
+```javascript
+const Ritik Trivedi= {
+  pronouns: "He" | "Him",
+  code: ["C++", "C", "Javascript", "HTML", "CSS", "MySQL"],
+  askMeAbout: ["System Software", "Web Dev", "Frontend Dev", "MERN", "Canva", "Game Development"],
+  technologies: {
+      frontend: ["HTML5", "CSS3", "JS", "Reactjs", "Bootstrap", "Tailwind CSS"],
+      backend: ["IoT Clouds", "Mongodb", "Databases"],
+  }
+}
+```
+------------------
+<!-- START_SECTION:blog -->
+| Qualification | Studied at | Institute | Affiliated by | Year of Study | Percentage |
+| :-: | :---: | :----: | :--: | :--: | :--: |
+| B.Tech ECE | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSlXh0uAs4doaJDsJgKPmmNcOjW6heDcFJg&s" width="40" height="30"> | Government  Engineering College, Rewa | REC | June 2020 - June 2024 | 7.94 CGPA |
+| Intermediate | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Poblic School , Rewa | State Board- MP | 2019 - 2020 | 76.6 % |
+| Highschool | <img src="http://svpsrewa.in/assets/uploads/logo.png" width="40" height="30"> | Sanskar Valley Public School | State Board | 2017 - 2018 | 89.40 % |
+<!-- END_SECTION:blog -->
+</td>
+</tr>
+</table>  
+
+-------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritik-trivedi-598a4b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritik-trivedi-598a4b21b" height="30" width="40" /></a>
